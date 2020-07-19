@@ -1,0 +1,57 @@
+#header{
+
+    /* height: 80px; */
+    
+    background-color: rgba(255, 255, 255, 0.15);
+    /* color:white; */
+    border:1px solid white ;
+    border-radius: 3px;
+    display: inline;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;;
+    
+}
+#holygrail{
+
+    height:650px;
+    margin-top: 60px;
+    background-image: linear-gradient(to top,#772953,#e95420 );
+}
+#footer{
+    /* height:80px; */
+    background-color: rgba(255, 255, 255, 0.15);
+    /* color:white; */
+    border:1px solid white ;
+    border-radius: 3px;
+    display: inline;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    
+}  
+ #main #content,#main #secondary,#main #tertiary{
+    
+    background-color: rgba(255, 255, 255, 0.15) ; 
+    border: 2px solid white;
+    border-radius: 2px;
+    padding: 15px;
+    margin: 10px;     
+    text-align: center;
+
+} 
+
+#main{
+    
+    background-color: rgba(255, 255, 255, 0.15) ;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    clear: both; 
+    display: block;
+    font-size: initial; 
+   
+} 
+
+

@@ -1,0 +1,28 @@
+
+
+#header,#footer{
+    display: block;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+#main{
+    display: flex;
+}
+
+.container #content{
+    order: 2;
+    color: whitesmoke;
+}
+
+.container #secondary{
+    width: min-content;
+    order: 1;
+    color: whitesmoke;
+}
+.container #tertiary{
+    width: min-content;
+    order: 3;
+    color: whitesmoke;
+
+}

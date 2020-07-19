@@ -1,0 +1,12 @@
+Assignment-->
+
+1.What is the difference between em and rem?
+
+Ans:-While em is relative to the font-size of its direct or nearest parent, rem is only relative to the html (root) font-size.
+    em gives the ability to control an area of a design. 
+    As in, scale the type in that specific area relatively. rem gives the ability to scale type across the entire page easily.
+
+2.Implementing main.css along with the flexboxAssign1.html webpage
+3.Implementing flexstysle.css along with the flexboxAssign1.html webpage
+4.Implementing style.css along with the Index.html webpage
+
